@@ -1,1 +1,8 @@
 # NumericalAnalysis
+
+### One Variable Solutions
+
+- Bisection
+- Fixed-Point Iteration
+- Newton's Method
+- Muller's Method
